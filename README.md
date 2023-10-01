@@ -12,6 +12,6 @@ This is my first Java 'hello world' type project to get me more familiar with th
 ## Project description
 <p>This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.</p>
 
-Here's the link to the project: https://hyperskill.org/projects/229
+## Project status
 
-Check out my profile: https://hyperskill.org/profile/275298365
+Done - Completed all 4/4 stages.
